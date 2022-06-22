@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Strawhub&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Strawhub/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starwhub" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strawhub" />
 </a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strawhub&layout=compact)](https://github.com/Strawhub/github-readme-stats) -->
 <!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Strawhub&show_icons=true) -->
