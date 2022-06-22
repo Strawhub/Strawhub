@@ -1,7 +1,12 @@
 ### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strawhub&layout=compact)](https://github.com/Strawhub/github-readme-stats)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Strawhub&show_icons=true)
+<a href="https://github.com/Strawhub/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Strawhub&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/Strawhub/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starwhub" />
+</a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strawhub&layout=compact)](https://github.com/Strawhub/github-readme-stats) -->
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Strawhub&show_icons=true) -->
 <!--
 **Strawhub/Strawhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
